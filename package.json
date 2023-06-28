@@ -1,0 +1,31 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "SVG logo creator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "svg-logo-maker"
+  },
+  "keywords": [
+    "svg",
+    "logo",
+    "maker"
+  ],
+  "author": "Sarah Paterson",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
