@@ -1,5 +1,5 @@
-const SVG = require('./lib/svg');
+const INFO = require('./lib/information');
 
-const newSVG = new SVG();
+const info = new INFO;
 
-newSVG.generateSVG();
+info.run();
