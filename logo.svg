@@ -1,13 +1,16 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="100" cy="100" r="100" fill="yellow"/>
-  <text x="100" y ="100" fill = "green" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="10" y="10" width="30" height="30" fill="yellow"/>
+  <text>
+    <textPath xmlns:xlink="http://www.w3.org/1999/xlink">
       slr
+    </textPath>
   </text>
   
   <style>
     <![CDATA[
       text{
-        font: 125px Verdana, Helvetica, Arial, sans-serif;
+        font: 28px Verdana, Helvetica, Arial, sans-serif;
+        color: green;
       }
     ]]>
   </style>
