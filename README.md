@@ -17,6 +17,7 @@ Through the process of coding the SVG logo creator javascript files, I was able 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Tests](#tests)
 - [Credits](#credits)
 - [License](#license)
 
@@ -42,6 +43,12 @@ Once all the questions are answered, a logo.svg file will be created using the a
 ![SVG](images/TRIANGLE-logo-sample-01.png "SVG")
 
 Answering the prompts, I was able to create this logo.svg example.
+
+## Tests
+
+To test the svg.js and shapes.js files, run *npm test svg* and *npm test shapes* in your terminal while in the lib folder.
+
+---
 
 ---
 
