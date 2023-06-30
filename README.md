@@ -8,7 +8,7 @@ This code was created for the purpose of giving the user a simplified way to cre
 
 Through the process of coding the SVG logo creator javascript files, I was able to learn more about connecting multiple javascript files to communicate with each other locally avoiding a single long and complicated javascript file. I also learned a lot about testing code with jest and testing javascript files.
 
-[Here is a link to the video showing how it is used]().
+[Here is a link to the video showing how it is used](https://youtu.be/6JgorICO2Mo).
 
 ---
 ---
@@ -34,12 +34,12 @@ In order to run this program, the user will have to have node.js installed on th
 To use the SVG logo creator, start with node index.js. From here the user will be prompted to answer a few simple questions that will make up what the logo will look like.
 
 ### Answering Questions
-![Questions](assets "Questions")
+![Questions](images/SVG-Logo-Answers.png "Questions")
 
 Once all the questions are answered, a logo.svg file will be created using the answers provided.
 
 ### New SVG logo example
-![SVG](assets "SVG")
+![SVG](images/TRIANGLE-logo-sample-01.png "SVG")
 
 Answering the prompts, I was able to create this logo.svg example.
 
@@ -53,6 +53,8 @@ Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=j
 Motion Tricks article about SVG files and javascript: https://www.motiontricks.com/creating-dynamic-svg-elements-with-javascript/
 
 MDN SVG article: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
+
+Andrew Stehno (my TA) and Karina Guerrero Fernandez (my instructor)
 
 Helpful Resources:
 W3 School’s information about JavaScript: https://www.w3schools.com/js/default.asp
